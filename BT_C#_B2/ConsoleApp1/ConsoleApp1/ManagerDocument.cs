@@ -8,5 +8,6 @@ namespace BT_HDT_B2
 {
     class ManagerDocument
     {
+        List<Document> documents = new List<Document>();
     }
 }

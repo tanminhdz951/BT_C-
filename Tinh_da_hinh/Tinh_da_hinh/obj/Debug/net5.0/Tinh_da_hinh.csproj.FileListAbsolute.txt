@@ -1,0 +1,16 @@
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Tinh_da_hinh\Tinh_da_hinh\bin\Debug\net5.0\Tinh_da_hinh.exe
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Tinh_da_hinh\Tinh_da_hinh\bin\Debug\net5.0\Tinh_da_hinh.deps.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Tinh_da_hinh\Tinh_da_hinh\bin\Debug\net5.0\Tinh_da_hinh.runtimeconfig.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Tinh_da_hinh\Tinh_da_hinh\bin\Debug\net5.0\Tinh_da_hinh.runtimeconfig.dev.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Tinh_da_hinh\Tinh_da_hinh\bin\Debug\net5.0\Tinh_da_hinh.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Tinh_da_hinh\Tinh_da_hinh\bin\Debug\net5.0\ref\Tinh_da_hinh.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Tinh_da_hinh\Tinh_da_hinh\bin\Debug\net5.0\Tinh_da_hinh.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Tinh_da_hinh\Tinh_da_hinh\obj\Debug\net5.0\Tinh_da_hinh.csprojAssemblyReference.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Tinh_da_hinh\Tinh_da_hinh\obj\Debug\net5.0\Tinh_da_hinh.GeneratedMSBuildEditorConfig.editorconfig
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Tinh_da_hinh\Tinh_da_hinh\obj\Debug\net5.0\Tinh_da_hinh.AssemblyInfoInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Tinh_da_hinh\Tinh_da_hinh\obj\Debug\net5.0\Tinh_da_hinh.AssemblyInfo.cs
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Tinh_da_hinh\Tinh_da_hinh\obj\Debug\net5.0\Tinh_da_hinh.csproj.CoreCompileInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Tinh_da_hinh\Tinh_da_hinh\obj\Debug\net5.0\Tinh_da_hinh.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Tinh_da_hinh\Tinh_da_hinh\obj\Debug\net5.0\ref\Tinh_da_hinh.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Tinh_da_hinh\Tinh_da_hinh\obj\Debug\net5.0\Tinh_da_hinh.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Tinh_da_hinh\Tinh_da_hinh\obj\Debug\net5.0\Tinh_da_hinh.genruntimeconfig.cache
