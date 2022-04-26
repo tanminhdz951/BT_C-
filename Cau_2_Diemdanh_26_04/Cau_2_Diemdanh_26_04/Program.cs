@@ -48,7 +48,7 @@ namespace Cau_2_Diemdanh_26_04
     {
         public void fly()
         {
-            Console.WriteLine("Chim bay  tren troi");
+            Console.WriteLine("Chim bay tren troi");
 
         }
         public override void eat()
