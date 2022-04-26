@@ -21,10 +21,11 @@ namespace DIEMDANH_26_4
         public int B_236 { get => b_236; set => b_236 = value; }
         public int C_236 { get => c_236; set => c_236 = value; }
 
-        public double delta(int a_236, int b_236, int c_236)
+        public double delta()
         {
             double delta;
             delta = (b_236 * b_236) - (4 * a_236 * c_236);
+            Console.WriteLine("{0}", delta);
             return delta;
         }
 
@@ -32,7 +33,7 @@ namespace DIEMDANH_26_4
         {
             double nghiem_1, nghiem_2;
             double d;
-            d = delta(a_236, b_236,c_236);
+            d = delta();
             if (d < 0)
             {
                 Console.WriteLine("Phuong trinh vo nghiem");

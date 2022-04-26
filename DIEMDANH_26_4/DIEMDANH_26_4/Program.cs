@@ -17,7 +17,6 @@ namespace DIEMDANH_26_4
             Console.ReadKey();
             PT_bac2 pt_b2 = new PT_bac2(a_236, b_236, c_236);
             pt_b2.tinh_nghiem();
-
         }
     }
 }
