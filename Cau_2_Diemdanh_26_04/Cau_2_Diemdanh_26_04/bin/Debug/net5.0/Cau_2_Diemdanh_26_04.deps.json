@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Cau_2_Diemdanh_26_04/1.0.0": {
+        "runtime": {
+          "Cau_2_Diemdanh_26_04.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cau_2_Diemdanh_26_04/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

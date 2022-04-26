@@ -1,0 +1,15 @@
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Cau_2_Diemdanh_26_04\Cau_2_Diemdanh_26_04\bin\Debug\net5.0\Cau_2_Diemdanh_26_04.exe
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Cau_2_Diemdanh_26_04\Cau_2_Diemdanh_26_04\bin\Debug\net5.0\Cau_2_Diemdanh_26_04.deps.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Cau_2_Diemdanh_26_04\Cau_2_Diemdanh_26_04\bin\Debug\net5.0\Cau_2_Diemdanh_26_04.runtimeconfig.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Cau_2_Diemdanh_26_04\Cau_2_Diemdanh_26_04\bin\Debug\net5.0\Cau_2_Diemdanh_26_04.runtimeconfig.dev.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Cau_2_Diemdanh_26_04\Cau_2_Diemdanh_26_04\bin\Debug\net5.0\Cau_2_Diemdanh_26_04.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Cau_2_Diemdanh_26_04\Cau_2_Diemdanh_26_04\bin\Debug\net5.0\ref\Cau_2_Diemdanh_26_04.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Cau_2_Diemdanh_26_04\Cau_2_Diemdanh_26_04\bin\Debug\net5.0\Cau_2_Diemdanh_26_04.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Cau_2_Diemdanh_26_04\Cau_2_Diemdanh_26_04\obj\Debug\net5.0\Cau_2_Diemdanh_26_04.GeneratedMSBuildEditorConfig.editorconfig
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Cau_2_Diemdanh_26_04\Cau_2_Diemdanh_26_04\obj\Debug\net5.0\Cau_2_Diemdanh_26_04.AssemblyInfoInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Cau_2_Diemdanh_26_04\Cau_2_Diemdanh_26_04\obj\Debug\net5.0\Cau_2_Diemdanh_26_04.AssemblyInfo.cs
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Cau_2_Diemdanh_26_04\Cau_2_Diemdanh_26_04\obj\Debug\net5.0\Cau_2_Diemdanh_26_04.csproj.CoreCompileInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Cau_2_Diemdanh_26_04\Cau_2_Diemdanh_26_04\obj\Debug\net5.0\Cau_2_Diemdanh_26_04.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Cau_2_Diemdanh_26_04\Cau_2_Diemdanh_26_04\obj\Debug\net5.0\ref\Cau_2_Diemdanh_26_04.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Cau_2_Diemdanh_26_04\Cau_2_Diemdanh_26_04\obj\Debug\net5.0\Cau_2_Diemdanh_26_04.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Cau_2_Diemdanh_26_04\Cau_2_Diemdanh_26_04\obj\Debug\net5.0\Cau_2_Diemdanh_26_04.genruntimeconfig.cache
