@@ -34,11 +34,13 @@ namespace Diem_danh_10_05
                 }
             }
 
+            Console.WriteLine("Gia tri của mang la");
             for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine("a[{0}] = {1}",i, Mang_236[i]);
             }
-
+            Console.WriteLine("Gia tr max la = {0}", max);
+            Console.WriteLine("Gia tr min la = {0}", min);
 
         }
     }
