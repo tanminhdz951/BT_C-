@@ -1,0 +1,15 @@
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Diem_danh_10_05\Diem_danh_10_05\bin\Debug\net5.0\Diem_danh_10_05.exe
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Diem_danh_10_05\Diem_danh_10_05\bin\Debug\net5.0\Diem_danh_10_05.deps.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Diem_danh_10_05\Diem_danh_10_05\bin\Debug\net5.0\Diem_danh_10_05.runtimeconfig.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Diem_danh_10_05\Diem_danh_10_05\bin\Debug\net5.0\Diem_danh_10_05.runtimeconfig.dev.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Diem_danh_10_05\Diem_danh_10_05\bin\Debug\net5.0\Diem_danh_10_05.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Diem_danh_10_05\Diem_danh_10_05\bin\Debug\net5.0\ref\Diem_danh_10_05.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Diem_danh_10_05\Diem_danh_10_05\bin\Debug\net5.0\Diem_danh_10_05.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Diem_danh_10_05\Diem_danh_10_05\obj\Debug\net5.0\Diem_danh_10_05.GeneratedMSBuildEditorConfig.editorconfig
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Diem_danh_10_05\Diem_danh_10_05\obj\Debug\net5.0\Diem_danh_10_05.AssemblyInfoInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Diem_danh_10_05\Diem_danh_10_05\obj\Debug\net5.0\Diem_danh_10_05.AssemblyInfo.cs
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Diem_danh_10_05\Diem_danh_10_05\obj\Debug\net5.0\Diem_danh_10_05.csproj.CoreCompileInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Diem_danh_10_05\Diem_danh_10_05\obj\Debug\net5.0\Diem_danh_10_05.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Diem_danh_10_05\Diem_danh_10_05\obj\Debug\net5.0\ref\Diem_danh_10_05.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Diem_danh_10_05\Diem_danh_10_05\obj\Debug\net5.0\Diem_danh_10_05.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Diem_danh_10_05\Diem_danh_10_05\obj\Debug\net5.0\Diem_danh_10_05.genruntimeconfig.cache
