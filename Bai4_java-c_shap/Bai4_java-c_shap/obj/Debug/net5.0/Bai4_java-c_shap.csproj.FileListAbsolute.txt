@@ -1,0 +1,16 @@
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai4_java-c_shap\Bai4_java-c_shap\obj\Debug\net5.0\Bai4_java-c_shap.csprojAssemblyReference.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai4_java-c_shap\Bai4_java-c_shap\obj\Debug\net5.0\Bai4_java-c_shap.GeneratedMSBuildEditorConfig.editorconfig
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai4_java-c_shap\Bai4_java-c_shap\obj\Debug\net5.0\Bai4_java-c_shap.AssemblyInfoInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai4_java-c_shap\Bai4_java-c_shap\obj\Debug\net5.0\Bai4_java-c_shap.AssemblyInfo.cs
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai4_java-c_shap\Bai4_java-c_shap\obj\Debug\net5.0\Bai4_java-c_shap.csproj.CoreCompileInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai4_java-c_shap\Bai4_java-c_shap\bin\Debug\net5.0\Bai4_java-c_shap.exe
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai4_java-c_shap\Bai4_java-c_shap\bin\Debug\net5.0\Bai4_java-c_shap.deps.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai4_java-c_shap\Bai4_java-c_shap\bin\Debug\net5.0\Bai4_java-c_shap.runtimeconfig.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai4_java-c_shap\Bai4_java-c_shap\bin\Debug\net5.0\Bai4_java-c_shap.runtimeconfig.dev.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai4_java-c_shap\Bai4_java-c_shap\bin\Debug\net5.0\Bai4_java-c_shap.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai4_java-c_shap\Bai4_java-c_shap\bin\Debug\net5.0\ref\Bai4_java-c_shap.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai4_java-c_shap\Bai4_java-c_shap\bin\Debug\net5.0\Bai4_java-c_shap.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai4_java-c_shap\Bai4_java-c_shap\obj\Debug\net5.0\Bai4_java-c_shap.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai4_java-c_shap\Bai4_java-c_shap\obj\Debug\net5.0\ref\Bai4_java-c_shap.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai4_java-c_shap\Bai4_java-c_shap\obj\Debug\net5.0\Bai4_java-c_shap.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai4_java-c_shap\Bai4_java-c_shap\obj\Debug\net5.0\Bai4_java-c_shap.genruntimeconfig.cache
