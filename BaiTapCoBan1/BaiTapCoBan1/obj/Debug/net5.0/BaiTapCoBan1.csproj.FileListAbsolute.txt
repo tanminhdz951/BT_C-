@@ -1,0 +1,16 @@
+F:\document\221_hocki_6\Lap_trinh_c#\New folder\Bai_Tap_Co_Ban_01\BaiTapCoBan1\BaiTapCoBan1\bin\Debug\net5.0\BaiTapCoBan1.exe
+F:\document\221_hocki_6\Lap_trinh_c#\New folder\Bai_Tap_Co_Ban_01\BaiTapCoBan1\BaiTapCoBan1\bin\Debug\net5.0\BaiTapCoBan1.deps.json
+F:\document\221_hocki_6\Lap_trinh_c#\New folder\Bai_Tap_Co_Ban_01\BaiTapCoBan1\BaiTapCoBan1\bin\Debug\net5.0\BaiTapCoBan1.runtimeconfig.json
+F:\document\221_hocki_6\Lap_trinh_c#\New folder\Bai_Tap_Co_Ban_01\BaiTapCoBan1\BaiTapCoBan1\bin\Debug\net5.0\BaiTapCoBan1.runtimeconfig.dev.json
+F:\document\221_hocki_6\Lap_trinh_c#\New folder\Bai_Tap_Co_Ban_01\BaiTapCoBan1\BaiTapCoBan1\bin\Debug\net5.0\BaiTapCoBan1.dll
+F:\document\221_hocki_6\Lap_trinh_c#\New folder\Bai_Tap_Co_Ban_01\BaiTapCoBan1\BaiTapCoBan1\bin\Debug\net5.0\ref\BaiTapCoBan1.dll
+F:\document\221_hocki_6\Lap_trinh_c#\New folder\Bai_Tap_Co_Ban_01\BaiTapCoBan1\BaiTapCoBan1\bin\Debug\net5.0\BaiTapCoBan1.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\New folder\Bai_Tap_Co_Ban_01\BaiTapCoBan1\BaiTapCoBan1\obj\Debug\net5.0\BaiTapCoBan1.csprojAssemblyReference.cache
+F:\document\221_hocki_6\Lap_trinh_c#\New folder\Bai_Tap_Co_Ban_01\BaiTapCoBan1\BaiTapCoBan1\obj\Debug\net5.0\BaiTapCoBan1.GeneratedMSBuildEditorConfig.editorconfig
+F:\document\221_hocki_6\Lap_trinh_c#\New folder\Bai_Tap_Co_Ban_01\BaiTapCoBan1\BaiTapCoBan1\obj\Debug\net5.0\BaiTapCoBan1.AssemblyInfoInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\New folder\Bai_Tap_Co_Ban_01\BaiTapCoBan1\BaiTapCoBan1\obj\Debug\net5.0\BaiTapCoBan1.AssemblyInfo.cs
+F:\document\221_hocki_6\Lap_trinh_c#\New folder\Bai_Tap_Co_Ban_01\BaiTapCoBan1\BaiTapCoBan1\obj\Debug\net5.0\BaiTapCoBan1.csproj.CoreCompileInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\New folder\Bai_Tap_Co_Ban_01\BaiTapCoBan1\BaiTapCoBan1\obj\Debug\net5.0\BaiTapCoBan1.dll
+F:\document\221_hocki_6\Lap_trinh_c#\New folder\Bai_Tap_Co_Ban_01\BaiTapCoBan1\BaiTapCoBan1\obj\Debug\net5.0\ref\BaiTapCoBan1.dll
+F:\document\221_hocki_6\Lap_trinh_c#\New folder\Bai_Tap_Co_Ban_01\BaiTapCoBan1\BaiTapCoBan1\obj\Debug\net5.0\BaiTapCoBan1.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\New folder\Bai_Tap_Co_Ban_01\BaiTapCoBan1\BaiTapCoBan1\obj\Debug\net5.0\BaiTapCoBan1.genruntimeconfig.cache

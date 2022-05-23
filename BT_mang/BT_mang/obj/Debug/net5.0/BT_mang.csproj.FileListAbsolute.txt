@@ -1,0 +1,16 @@
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\BT_mang\BT_mang\bin\Debug\net5.0\BT_mang.exe
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\BT_mang\BT_mang\bin\Debug\net5.0\BT_mang.deps.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\BT_mang\BT_mang\bin\Debug\net5.0\BT_mang.runtimeconfig.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\BT_mang\BT_mang\bin\Debug\net5.0\BT_mang.runtimeconfig.dev.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\BT_mang\BT_mang\bin\Debug\net5.0\BT_mang.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\BT_mang\BT_mang\bin\Debug\net5.0\ref\BT_mang.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\BT_mang\BT_mang\bin\Debug\net5.0\BT_mang.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\BT_mang\BT_mang\obj\Debug\net5.0\BT_mang.csprojAssemblyReference.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\BT_mang\BT_mang\obj\Debug\net5.0\BT_mang.GeneratedMSBuildEditorConfig.editorconfig
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\BT_mang\BT_mang\obj\Debug\net5.0\BT_mang.AssemblyInfoInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\BT_mang\BT_mang\obj\Debug\net5.0\BT_mang.AssemblyInfo.cs
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\BT_mang\BT_mang\obj\Debug\net5.0\BT_mang.csproj.CoreCompileInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\BT_mang\BT_mang\obj\Debug\net5.0\BT_mang.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\BT_mang\BT_mang\obj\Debug\net5.0\ref\BT_mang.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\BT_mang\BT_mang\obj\Debug\net5.0\BT_mang.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C\BT_mang\BT_mang\obj\Debug\net5.0\BT_mang.genruntimeconfig.cache

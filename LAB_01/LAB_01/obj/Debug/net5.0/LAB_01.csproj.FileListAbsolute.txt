@@ -1,0 +1,16 @@
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\LAB_01\LAB_01\bin\Debug\net5.0\LAB_01.exe
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\LAB_01\LAB_01\bin\Debug\net5.0\LAB_01.deps.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\LAB_01\LAB_01\bin\Debug\net5.0\LAB_01.runtimeconfig.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\LAB_01\LAB_01\bin\Debug\net5.0\LAB_01.runtimeconfig.dev.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\LAB_01\LAB_01\bin\Debug\net5.0\LAB_01.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\LAB_01\LAB_01\bin\Debug\net5.0\ref\LAB_01.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\LAB_01\LAB_01\bin\Debug\net5.0\LAB_01.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\LAB_01\LAB_01\obj\Debug\net5.0\LAB_01.csprojAssemblyReference.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\LAB_01\LAB_01\obj\Debug\net5.0\LAB_01.GeneratedMSBuildEditorConfig.editorconfig
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\LAB_01\LAB_01\obj\Debug\net5.0\LAB_01.AssemblyInfoInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\LAB_01\LAB_01\obj\Debug\net5.0\LAB_01.AssemblyInfo.cs
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\LAB_01\LAB_01\obj\Debug\net5.0\LAB_01.csproj.CoreCompileInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\LAB_01\LAB_01\obj\Debug\net5.0\LAB_01.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\LAB_01\LAB_01\obj\Debug\net5.0\ref\LAB_01.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\LAB_01\LAB_01\obj\Debug\net5.0\LAB_01.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\LAB_01\LAB_01\obj\Debug\net5.0\LAB_01.genruntimeconfig.cache

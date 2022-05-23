@@ -1,0 +1,15 @@
+F:\document\221_hocki_6\Lap_trinh_c#\Co_ban2\bai_21_30\bai_21_30\bin\Debug\net5.0\bai_21_30.exe
+F:\document\221_hocki_6\Lap_trinh_c#\Co_ban2\bai_21_30\bai_21_30\bin\Debug\net5.0\bai_21_30.deps.json
+F:\document\221_hocki_6\Lap_trinh_c#\Co_ban2\bai_21_30\bai_21_30\bin\Debug\net5.0\bai_21_30.runtimeconfig.json
+F:\document\221_hocki_6\Lap_trinh_c#\Co_ban2\bai_21_30\bai_21_30\bin\Debug\net5.0\bai_21_30.runtimeconfig.dev.json
+F:\document\221_hocki_6\Lap_trinh_c#\Co_ban2\bai_21_30\bai_21_30\bin\Debug\net5.0\bai_21_30.dll
+F:\document\221_hocki_6\Lap_trinh_c#\Co_ban2\bai_21_30\bai_21_30\bin\Debug\net5.0\ref\bai_21_30.dll
+F:\document\221_hocki_6\Lap_trinh_c#\Co_ban2\bai_21_30\bai_21_30\bin\Debug\net5.0\bai_21_30.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\Co_ban2\bai_21_30\bai_21_30\obj\Debug\net5.0\bai_21_30.GeneratedMSBuildEditorConfig.editorconfig
+F:\document\221_hocki_6\Lap_trinh_c#\Co_ban2\bai_21_30\bai_21_30\obj\Debug\net5.0\bai_21_30.AssemblyInfoInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\Co_ban2\bai_21_30\bai_21_30\obj\Debug\net5.0\bai_21_30.AssemblyInfo.cs
+F:\document\221_hocki_6\Lap_trinh_c#\Co_ban2\bai_21_30\bai_21_30\obj\Debug\net5.0\bai_21_30.csproj.CoreCompileInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\Co_ban2\bai_21_30\bai_21_30\obj\Debug\net5.0\bai_21_30.dll
+F:\document\221_hocki_6\Lap_trinh_c#\Co_ban2\bai_21_30\bai_21_30\obj\Debug\net5.0\ref\bai_21_30.dll
+F:\document\221_hocki_6\Lap_trinh_c#\Co_ban2\bai_21_30\bai_21_30\obj\Debug\net5.0\bai_21_30.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\Co_ban2\bai_21_30\bai_21_30\obj\Debug\net5.0\bai_21_30.genruntimeconfig.cache
