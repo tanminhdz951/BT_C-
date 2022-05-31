@@ -14,5 +14,19 @@ namespace _10_bai_HDT_02
         {
            this.documents = new List<Document>();
         }
+        public void addDocument(Document document)
+        {
+            this.documents.Add(document);
+        }
+
+        public void showInfor()
+        {
+            foreach( Document document in documents)
+            {
+                
+            }
+            
+        }
+
     }
 }

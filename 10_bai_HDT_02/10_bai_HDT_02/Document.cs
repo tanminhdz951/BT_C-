@@ -8,22 +8,41 @@ namespace _10_bai_HDT_02
 {
     class Document
     {
-        private String id;
-        private String nxb;
-        private int number;
+        private int id_236;
+        private String nxb_236;
+        private int number_236;
 
-        protected string Id { get => id; set => id = value; }
-        protected string Nxb { get => nxb; set => nxb = value; }
-        protected int Number { get => number; set => number = value; }
+        
+        public string Nxb_236 { get => nxb_236; set => nxb_236 = value; }
+        public int Number_236 { get => number_236; set => number_236 = value; }
+        public int Id_236 { get => id_236; set => id_236 = value; }
 
-        public Document(String id, String nxb, int number)
+        public Document()
         {
-            this.Id = id;
-            this.Nxb = nxb;
-            this.Number = number;
+
+        }
+        public Document(int id, String nxb, int number)
+        {
+            this.Id_236 = id;
+            this.Nxb_236 = nxb;
+            this.Number_236 = number;
         }
 
+        public void input_document()
+        {
+            Console.Write("Nhap ma : ");
+            Id_236 = int.Parse(Console.ReadLine());
+            Console.Write("Nhap nha xuat ban: ");
+            Nxb_236 = Console.ReadLine();
+            Console.Write("Nhap so phat hanh: ");
+            Number_236 = int.Parse(Console.ReadLine());
+        }
 
-
+        public void String()
+        {
+            Console.WriteLine("Ma: {0}  ", Id_236);
+            Console.WriteLine("NXB: {0}", Nxb_236);
+            Console.WriteLine("So ban phat hanh: {0}", Number_236);
+        }
     }
 }

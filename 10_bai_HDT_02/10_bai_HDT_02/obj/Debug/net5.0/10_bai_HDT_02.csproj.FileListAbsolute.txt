@@ -1,0 +1,16 @@
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\10_bai_HDT_02\10_bai_HDT_02\bin\Debug\net5.0\10_bai_HDT_02.exe
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\10_bai_HDT_02\10_bai_HDT_02\bin\Debug\net5.0\10_bai_HDT_02.deps.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\10_bai_HDT_02\10_bai_HDT_02\bin\Debug\net5.0\10_bai_HDT_02.runtimeconfig.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\10_bai_HDT_02\10_bai_HDT_02\bin\Debug\net5.0\10_bai_HDT_02.runtimeconfig.dev.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\10_bai_HDT_02\10_bai_HDT_02\bin\Debug\net5.0\10_bai_HDT_02.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\10_bai_HDT_02\10_bai_HDT_02\bin\Debug\net5.0\ref\10_bai_HDT_02.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\10_bai_HDT_02\10_bai_HDT_02\bin\Debug\net5.0\10_bai_HDT_02.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\10_bai_HDT_02\10_bai_HDT_02\obj\Debug\net5.0\10_bai_HDT_02.csprojAssemblyReference.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\10_bai_HDT_02\10_bai_HDT_02\obj\Debug\net5.0\10_bai_HDT_02.GeneratedMSBuildEditorConfig.editorconfig
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\10_bai_HDT_02\10_bai_HDT_02\obj\Debug\net5.0\10_bai_HDT_02.AssemblyInfoInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\10_bai_HDT_02\10_bai_HDT_02\obj\Debug\net5.0\10_bai_HDT_02.AssemblyInfo.cs
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\10_bai_HDT_02\10_bai_HDT_02\obj\Debug\net5.0\10_bai_HDT_02.csproj.CoreCompileInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\10_bai_HDT_02\10_bai_HDT_02\obj\Debug\net5.0\10_bai_HDT_02.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\10_bai_HDT_02\10_bai_HDT_02\obj\Debug\net5.0\ref\10_bai_HDT_02.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\10_bai_HDT_02\10_bai_HDT_02\obj\Debug\net5.0\10_bai_HDT_02.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\10_bai_HDT_02\10_bai_HDT_02\obj\Debug\net5.0\10_bai_HDT_02.genruntimeconfig.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\document\\221_hocki_6\\Lap_trinh_c#\\BT_C\\10_bai_HDT_02\\10_bai_HDT_02\\10_bai_HDT_02.csproj",
+      "projectUniqueName": "F:\\document\\221_hocki_6\\Lap_trinh_c#\\BT_C#\\BT_C-\\10_bai_HDT_02\\10_bai_HDT_02\\10_bai_HDT_02.csproj",
       "projectName": "10_bai_HDT_02",
-      "projectPath": "F:\\document\\221_hocki_6\\Lap_trinh_c#\\BT_C\\10_bai_HDT_02\\10_bai_HDT_02\\10_bai_HDT_02.csproj",
+      "projectPath": "F:\\document\\221_hocki_6\\Lap_trinh_c#\\BT_C#\\BT_C-\\10_bai_HDT_02\\10_bai_HDT_02\\10_bai_HDT_02.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "F:\\document\\221_hocki_6\\Lap_trinh_c#\\BT_C\\10_bai_HDT_02\\10_bai_HDT_02\\obj\\",
+      "outputPath": "F:\\document\\221_hocki_6\\Lap_trinh_c#\\BT_C#\\BT_C-\\10_bai_HDT_02\\10_bai_HDT_02\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
