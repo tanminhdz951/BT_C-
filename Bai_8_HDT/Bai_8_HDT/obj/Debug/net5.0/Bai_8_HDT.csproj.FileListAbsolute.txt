@@ -1,0 +1,16 @@
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai_8_HDT\Bai_8_HDT\bin\Debug\net5.0\Bai_8_HDT.exe
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai_8_HDT\Bai_8_HDT\bin\Debug\net5.0\Bai_8_HDT.deps.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai_8_HDT\Bai_8_HDT\bin\Debug\net5.0\Bai_8_HDT.runtimeconfig.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai_8_HDT\Bai_8_HDT\bin\Debug\net5.0\Bai_8_HDT.runtimeconfig.dev.json
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai_8_HDT\Bai_8_HDT\bin\Debug\net5.0\Bai_8_HDT.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai_8_HDT\Bai_8_HDT\bin\Debug\net5.0\ref\Bai_8_HDT.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai_8_HDT\Bai_8_HDT\bin\Debug\net5.0\Bai_8_HDT.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai_8_HDT\Bai_8_HDT\obj\Debug\net5.0\Bai_8_HDT.csprojAssemblyReference.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai_8_HDT\Bai_8_HDT\obj\Debug\net5.0\Bai_8_HDT.GeneratedMSBuildEditorConfig.editorconfig
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai_8_HDT\Bai_8_HDT\obj\Debug\net5.0\Bai_8_HDT.AssemblyInfoInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai_8_HDT\Bai_8_HDT\obj\Debug\net5.0\Bai_8_HDT.AssemblyInfo.cs
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai_8_HDT\Bai_8_HDT\obj\Debug\net5.0\Bai_8_HDT.csproj.CoreCompileInputs.cache
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai_8_HDT\Bai_8_HDT\obj\Debug\net5.0\Bai_8_HDT.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai_8_HDT\Bai_8_HDT\obj\Debug\net5.0\ref\Bai_8_HDT.dll
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai_8_HDT\Bai_8_HDT\obj\Debug\net5.0\Bai_8_HDT.pdb
+F:\document\221_hocki_6\Lap_trinh_c#\BT_C#\BT_C-\Bai_8_HDT\Bai_8_HDT\obj\Debug\net5.0\Bai_8_HDT.genruntimeconfig.cache
